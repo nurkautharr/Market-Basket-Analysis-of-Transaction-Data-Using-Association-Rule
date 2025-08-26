@@ -13,7 +13,6 @@ The data potrays daily transaction data of a store. The owner of the store intei
 Apply association rule mining to find insights through identifying the interesting associations between the items sold in the store and provide suggestions to the owner. Include the interpretation of the analysis outcome and recommendation to the owner based on the outcome.
 
 #### Action:
-Here is a general summary of the content in the following sections:
 
 #### 1. Exploratory Data Analysis (EDA)
 - **Data Overview and Cleaning**: Imports transaction data, renames columns and checks for missing values.
