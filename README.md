@@ -1,7 +1,7 @@
 ## Market Basket Analysis
 
 <p align="center">
-<img width="1536" height="1024" alt="Maket Basket Analysis" src="https://github.com/user-attachments/assets/298f2866-74f3-46ee-922e-7bca40c592db" />
+<img width="400" alt="Maket Basket Analysis" src="https://github.com/user-attachments/assets/298f2866-74f3-46ee-922e-7bca40c592db" />
 </p>
 
 #### Skills:
