@@ -1,7 +1,7 @@
 ## Market Basket Analysis
 
 <p align="center">
-<img width="300" alt="Market Basket Analysis" src="https://github.com/user-attachments/assets/54a67d6f-4d32-4f20-99f9-115e31a024cb" />
+<img width="400" alt="Market Basket Analysis" src="https://github.com/user-attachments/assets/54a67d6f-4d32-4f20-99f9-115e31a024cb" />
 
 #### Skills:
 Python (Programming Language), Association Rule, A-Priori Algorithm
