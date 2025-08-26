@@ -3,16 +3,16 @@
 <p align="center">
 <img width="400" alt="Market Basket Analysis" src="https://github.com/user-attachments/assets/54a67d6f-4d32-4f20-99f9-115e31a024cb" />
 
-#### Skills:
+### Skills:
 Python (Programming Language), Association Rule, A-Priori Algorithm
 
-#### Situation:
+### Situation:
 The data potrays daily transaction data of a store. The owner of the store inteintends to utilise the data collected from the day day-to-day operation to see the reception of all the items in the store and if there are any interesting item groups that favoured by the customers. This information would give insights to the owner in strategising the placement of the items so that it could improve the sales of those items.
 
-#### Task:
+### Task:
 Apply association rule mining to find insights through identifying the interesting associations between the items sold in the store and provide suggestions to the owner. Include the interpretation of the analysis outcome and recommendation to the owner based on the outcome.
 
-#### Action:
+### Action:
 
 #### 1. Exploratory Data Analysis (EDA)
 - **Data Overview and Cleaning**: Imports transaction data, renames columns and checks for missing values.
