@@ -1,7 +1,7 @@
 ## Market Basket Analysis
 
 <p align="center">
-  <img src="https://share.google/images/41EKnBaNeJTki0aYd" alt="Alt text" width="400">
+![Alt text](https://share.google/images/41EKnBaNeJTki0aYd)
 </p>
 
 #### Skills:
